@@ -2,7 +2,7 @@
 
 Learning how to create animations in JavaScript using canvas and rAF.
 
-DEMO on CodePen: http://codepen.io/vyyyy/pen/obzzJL
+DEMO on CodePen: http://codepen.io/vyyyy/pen/obzzJL?editors=0010
 
 Used the following resources:
 
